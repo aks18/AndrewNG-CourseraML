@@ -20,3 +20,4 @@ J = J/(2*m);  %finding the average
 % =========================================================================
 
 end
+%trying something in git
